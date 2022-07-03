@@ -1,0 +1,7 @@
+# MergeConflictDemo
+<<<<<<< HEAD
+change from the A repo
+=======
+
+Adding data from repo B
+>>>>>>> 1253807 (Commit from repo B)
